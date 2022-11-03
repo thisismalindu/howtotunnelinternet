@@ -153,5 +153,7 @@ Congratulations! You are ready to surf internet freely. Here are some tips I gat
  Hopefully now you can surf the internet without being charged thousands of Rupees.
 If you think this article was useful, considering giving it a star and share this with your friends. 
 
+Also, check out my apps on my [Github](https://github.com/thisismalindu/). There are some useful stuff related to this process as well. There are other useful apps I made as well. Cheers!
+
 Thank you.
  
